@@ -1,0 +1,54 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0%;
+}
+.balerbal{
+    background-color: aqua;
+}
+
+/* --------narver styles ----------*/
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+    background-color: brown;
+    text-align: center;
+    /* border-radius: 5%; */
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+    /* text-align: center; */
+    margin-top: 18px;
+    margin-right: 18px;
+    font-weight: 400;
+    font-size: 20px;
+
+}
+nav ul{
+    display: flex;
+    text-align: center;
+}
+.nav-title{
+    font-size: 50px;
+    margin-left: 20px;
+}
+
+/* header-title */
+
+.header-benner{
+    margin-left: 200px;
+    display: flex;
+    margin-right: 200px;
+    /* text-align: center; */
+}
+.headertitle{
+    /* /* text-align: center; */
+    margin-top: 250px;
+}
+.headertitle-h{
+    font-size: 35px;
+}
+.headertitle-p{
+    font-size: 18px;
+}
