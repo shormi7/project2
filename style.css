@@ -1,9 +1,9 @@
 *{
     font-family: 'Times New Roman', Times, serif;
     margin: 0%;
-}
-.balerbal{
-    background-image: url(/media/header-bg.jpg);
+} 
+.header-bg{
+    background-color: black;
 }
 
 /* --------narver styles ----------*/
@@ -11,7 +11,7 @@ nav{
     display: flex;
     justify-content: space-between;
     margin: 50px 200px;
-    background-color: brown;
+    background-color: rgb(172, 248, 50);
     text-align: center;
     /* border-radius: 5%; */
 }
@@ -52,7 +52,10 @@ nav ul{
 }
 .headertitle-h{
     font-size: 35px;
+    color: white;
 }
 .headertitle-p{
     font-size: 18px;
+    color: white;
 }
+
